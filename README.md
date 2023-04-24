@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python/Django and SQL.  
   
 
-- All of my projects are available at [my GitHub Page](https://github.com/ericlfrey)  
+- 👨‍💻 All of my projects are available at [my GitHub Page](https://github.com/ericlfrey)  
   
 
 - ⚡ Fun fact: I've been on HBO!  
