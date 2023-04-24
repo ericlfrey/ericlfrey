@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" height="" width="" />
-</div>  
-  
 
 ### <div align="center">I'm Eric Frey, a full-time Full Stack Web Development student at Nashville Software School.</div>  
   
