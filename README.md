@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AWS.  
   
 
-- 👨‍💻 All of my projects are available at [my GitHub Page]https://github.com/ericlfrey?tab=repositories)  
+- 👨‍💻 All of my projects are available at [my Repo Page](https://github.com/ericlfrey?tab=repositories)  
   
 
 - ⚡ Fun fact: I've been on HBO!  
