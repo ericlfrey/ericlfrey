@@ -5,7 +5,7 @@
 - I am a lifelong learner, I enjoy building innovative and efficient solutions to complex problems, and collaborating with like-minded individuals. My skills include JavaScript, React, Next.JS, Python, Django, CSS, HTML, SQL, and I am always eager to learn more. When I'm not coding, you can find me playing the Upright Bass or building something in my shop. Feel free to browse my repositories and don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/ericlfrey/) if you want to discuss a project or just say hi!  
   
 
-- 🌱 I’m currently learning Python/Django and SQL.  
+- 🌱 I’m currently learning AWS.  
   
 
 - 👨‍💻 All of my projects are available at [my GitHub Page](https://github.com/ericlfrey)  
