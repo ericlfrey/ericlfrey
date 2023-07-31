@@ -2,7 +2,7 @@
 ### <div align="center">Hi! I'm Eric Frey, a Full Stack Web Developer and Junior Instructor at [Nashville Software School](https://nashvillesoftwareschool.com/).</div>  
   
 
-- I am a lifelong learner, I enjoy building innovative and efficient solutions to complex problems, and collaborating with like-minded individuals. My skills include JavaScript, React, Next.JS, Python, Django, CSS, HTML, SQL, and I am always eager to learn more. When I'm not coding, you can find me playing the Upright Bass or building something in my shop. Feel free to browse my repositories and don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/ericlfrey/) if you want to discuss a project or just say hi!  
+- My journey has been diverse, with experience as a Professional Musician, Festival Promoter, Home Inspector, and Handyman/Remodeler. Throughout these roles, I honed valuable skills in teamwork, project management, problem-solving, and incremental learning, which have seamlessly translated into my software development career. I find great joy in building innovative solutions to complex problems and collaborating with like-minded individuals. My tech stack includes JavaScript, React, Next.js, Python, Django, CSS, HTML, SQL, and I'm always eager to expand my knowledge. When not coding, you can find me playing the Upright Bass or working on creative projects in my shop. Feel free to browse my repositories and don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/ericlfrey/) if you want to discuss a project or just say hi!  
   
 
 - 🌱 I’m currently learning AWS.  
@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [my Repo Page](https://github.com/ericlfrey?tab=repositories)  
   
 
-- ⚡ Fun fact: I've been on HBO!  
+- ⚡ Fun facts: I'm an Eagle Scout, and I've been on HBO!  
   
 
 <br/>  
@@ -25,7 +25,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>      
